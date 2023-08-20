@@ -142,6 +142,8 @@ td .remove {
     border: none;
 
     color: red;
+
+    cursor: pointer;
 }
 
 td.user img {
